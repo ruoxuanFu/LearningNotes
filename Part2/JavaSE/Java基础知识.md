@@ -94,6 +94,7 @@
 **Object有哪些公用方法？**
 
 [http://www.cnblogs.com/yumo/p/4908315.html](http://www.cnblogs.com/yumo/p/4908315.html)
+[https://blog.csdn.net/donghaol/article/details/49252383](https://blog.csdn.net/donghaol/article/details/49252383)
 
 1．clone方法
 
